@@ -1,0 +1,1 @@
+yara tiene un promedio de 66% en su rendimiento global
